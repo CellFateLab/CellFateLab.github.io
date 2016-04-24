@@ -1,0 +1,31 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 30px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 30px;
+  background-color: #f5f5f5;
+}
+
+.dna_ornament {
+  background-image: url("dna_ornament_light_skewed.png");
+  background-repeat: repeat;
+}
+
+.white {
+  background-color: rgba(255,255,255,.8);
+}
+
+.navbar {
+  margin-bottom: 0px;
+}

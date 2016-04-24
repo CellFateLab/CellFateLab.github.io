@@ -1,0 +1,44 @@
+_model: page
+---
+body:
+
+<br/>
+<div class="row">
+  <div class="col-md-4">
+    <h3>Address:</h3>
+    <h6>Cell Fate Lab</h6>
+    <h6>Cecilia Sahlgren</h6>
+    <h6>Turku Centre for Biotechnology</h6>
+    <h6>Tykistökatu 6</h6>
+    <h6>Turku, FI-20520</h6>
+  </div>
+  <div id="map" class="col-md-8" style="width:600px; height: 400px; background-color: #CCC;"></div>
+</div>
+
+<script>
+  function initMap() {
+    var myLatLng = {lat: 60.449304, lng: 22.2932367};
+
+    var mapDiv = document.getElementById('map');
+    var map = new google.maps.Map(mapDiv, {
+      center: myLatLng,
+      zoom: 16
+    });
+
+  var marker = new google.maps.Marker({
+    position: myLatLng,
+    map: map,
+    title: 'Turku Centre for Biotechnology'
+  });
+  }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?callback=initMap"
+        async defer></script>
+
+### Email:
+
+###### Cecilia Sahlgren, Group Leader: **cecilia.sahlgren@btk.fi**
+
+###### Adolfo Rivero, Senior researcher and research coordinator: **arivero@btk.fi**
+---
+title: Contacts

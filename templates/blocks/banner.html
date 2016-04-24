@@ -1,0 +1,7 @@
+{% set image = record.attachments.get(this.image) %}
+<div class="container"
+    style="background-image: url({{ image|url }}); height: 300px;">
+  {% if contents %}
+    {{ this.contents }}
+  {% endif %}
+</div>

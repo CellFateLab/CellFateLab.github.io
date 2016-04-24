@@ -1,0 +1,21 @@
+{%extends "layout.html" %}
+{% block body %}
+  <div class="container">
+    {% for person in this.children %}
+      <br/>
+      <div class="container">
+        {% set image = person.attachments.images.first() %}
+        {% if image %}
+	<div class="container col-md-2">
+          <img class="img-thumbnail" src="{{ image.thumbnail(160)|url }}" alt="{{person.name}}">
+	</div>
+        {% endif %}
+	<div class="container col-md-10">
+	  <p><b>{{ person.name }}{% if person.position %}, {{ person.position }}{% endif %}</b></p>
+	  <p class="small"><b><small>Project:</b> {{ person.project }}</small></p>
+	  <p class="small"><b><small>Funding:</b> {{ person.funding }}</small></p>
+	</div>
+      </div>
+    {% endfor %}
+  </div>
+{% endblock %}
