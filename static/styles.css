@@ -18,7 +18,8 @@ body {
 }
 
 .dna_ornament {
-  background-image: url("dna_ornament_light_skewed.png");
+  /* background-image: url("dna_ornament_light_skewed.png"); */
+  background-image: url("curls.png");
   background-repeat: repeat;
 }
 
