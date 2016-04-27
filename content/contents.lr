@@ -7,10 +7,12 @@ banner:
 <br/>
 ## Welcome to The Cell Fate Lab! 
 
-#### "From molecular and cell biology,
-#### via bioengineering and nanotechnogies
-#### towards novel  therapeutic approaches to target
-#### cell-cell signaling and cell fate in  tissue regeneration and cancer"
+<div class="col-md-9">
+<h4 class="text-justify">"From molecular and cell biology,
+via bioengineering and nanotechnologies
+towards novel  therapeutic approaches to target
+cell-cell signaling and cell fate in  tissue regeneration and cancer"</h4>
+</div>
 
 ---
 image: 1.png
