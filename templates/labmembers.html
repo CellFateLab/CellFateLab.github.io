@@ -11,9 +11,16 @@
 	</div>
         {% endif %}
 	<div class="container col-md-10">
-	  <p><b>{{ person.name }}{% if person.position %}, {{ person.position }}{% endif %}</b></p>
-	  <p class="small"><b><small>Project:</b> {{ person.project }}</small></p>
-	  <p class="small"><b><small>Funding:</b> {{ person.funding }}</small></p>
+	  <p><b>{{ person.name }}</b></p>
+	  {% if person.position %}
+	    <p class="small"><b><small>Position:</b> {{ person.position }}</small></p>
+	  {% endif %}
+	  {% if person.project %}
+	    <p class="small"><b><small>Project:</b> {{ person.project }}</small></p>
+	  {% endif %}
+	  {% if person.funding %}
+	    <p class="small"><b><small>Funding:</b> {{ person.funding }}</small></p>
+	  {% endif %}
 	</div>
       </div>
     {% endfor %}
