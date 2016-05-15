@@ -23,7 +23,7 @@ body:
 <div class="row">
 <div class="col-md-9">
 <h3>Brief history of Cecilia and the start of the Cell Fate Lab</h3>
-Cecilia Sahlgren obtained her PhD at Åbo Akademi University focusing on the role of intermediate filaments as signaling orchestrators in cell fate decisions. Following  postdoctoral  training  at  the  Karolinska  Institute,  Sweden, focusing on  Notch  signaling  she  established  the  Cell  Fate  Lab  at  the  Turku Centre  for Biotechnology  2008.  Since  2013  she  has  a  tenured  position  in Biomedical Engineering  at  Eindhoven  University  of  Technology.  She  remains  affiliated with Åbo Akademi University as the head of the Cell Fate Lab.
+Cecilia Sahlgren obtained her PhD at Åbo Akademi University focusing on the role of intermediate filaments as signaling orchestrators in cell fate decisions. Following  postdoctoral  training  at  the  Karolinska  Institute,  Sweden, focusing on  Notch  signaling  she  established  the  Cell  Fate  Lab  at  the  Turku Centre  for Biotechnology  2008.  Also, since  2013  she  has  a  tenured  position  in Biomedical Engineering  at  Eindhoven  University  of  Technology.  She  remains  affiliated with Åbo Akademi University as the head of the Cell Fate Lab.
 </div>
 <div class="col-md-3">
 <img src="/static/cecilia.png" class="img-thumbnail" width="300" height="300"/>
@@ -32,12 +32,12 @@ Cecilia Sahlgren obtained her PhD at Åbo Akademi University focusing on the rol
 
 ### The Cell Fate Lab research interest
 
-Our research is focused on fundamental  molecular mechanisms, which guide cell fate and cell organization in stem cell differentiation, tissue formation and in   disease   such   as   cancer.   Together   with   collaborators   we   utilize   the knowledge  to  develop  material-based  medical  technologies  to  control  these mechanisms in regenerative and cancer therapies. Coordination  of  cells  through  molecular  cell  signaling  pathways  is  crucial  for the  formation  of  functional  tissues  and  signaling  is  often  deregulated  in diseases  such  as  cancer,  allowing  cells  to  acquire  abnormal  functions  and pathological remodeling  of  tissue architecture. The physical,  mechanical and chemical stimuli of the microenvironment also influence cell signaling and cell fate decisions during development and disease.
+Our research is focused on the fundamental  molecular mechanisms, that guide cell fate and cell organization in stem cell differentiation, tissue formation and in   disease   such   as   cancer.   Together   with   collaborators   we   utilize such knowledge  to  develop  material-based  medical  technologies  to  control  these mechanisms in regenerative and cancer therapies. Coordination  of  cells  through  molecular  cell  signaling  pathways  is  crucial  for the  formation  of  functional  tissues  and  signaling  is  often  deregulated  in diseases  such  as  cancer,  allowing  cells  to  acquire  abnormal  functions  and pathological remodeling  of  tissue architecture. The physical,  mechanical and chemical stimuli of the microenvironment also influence cell signaling and cell fate decisions during development and disease progression.
 
 The Cell Fate Lab tries to find answers to 3 key questions:
-* How are  signaling  mehanisms  determining  cell  fate  decisions  regulated  by cell autonomous mechanisms and the environment?
-* How  does  these  mechanisms  influence  stem  cell  differentiation  and  how  do deregulated mechanisms link to disease?
-* How  can  cell  signaling  be  modified  for  therapeutical  purpose  to  control  cell fate  in cancer and regenerative therapy?
+* <small>How are  signaling  mechanisms  making  cell  fate  decisions based on input from cell autonomous mechanisms and the environment?</small>
+* <small>How  does  these  mechanisms  influence  stem  cell  differentiation  and  how  do deregulated mechanisms link to disease?</small>
+* <small>How  can  cell  signaling  be  modulated  for  therapeutical  purposes in order  to  control  cell fate  in cancer and regenerative therapy?</small>
 
 ### Funding
 
