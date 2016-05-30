@@ -46,11 +46,11 @@
 
   <div>
     
-<div style="background-image: url(./1.jpg); height: 300px; text-shadow: 2px 2px 2px #000000;
-	-webkit-box-shadow: 0px 6px 12px 0px rgba(0,0,0,0.75);
-	-moz-box-shadow: 0px 6px 12px 0px rgba(0,0,0,0.75);
-	box-shadow: 0px 6px 12px 0px rgba(0,0,0,0.75);
-	"/>
+
+<div id="banner" class="container" style="height: 300px; width: 100%;
+        background-image: url(/static/carousel_pics/1.jpg);
+        text-shadow: 2px 2px 2px #000000;
+	">
 	<div class="container" style="color: white"><p><br/></p>
 <h2>Welcome to The Cell Fate Lab!</h2>
 <div class="col-md-9">
@@ -60,6 +60,14 @@ towards novel  therapeutic approaches to target
 cell-cell signaling and cell fate in  tissue regeneration and cancer"</h4>
 </div></div>
 </div>
+
+<!--script>
+function getImageUrl() {
+    var n = Math.floor(Math.random() * 7) + 1;
+    return 'url("/static/carousel_pics/' + n.toString() + '.jpg")';
+}
+document.getElementById('banner').style.backgroundImage = getImageUrl();
+</script-->
 
     <div class="container ">
       
