@@ -1,13 +1,75 @@
 {% extends "layout.html" %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block outerbody %}
-<div style="background-image: url({{ this.image|url}}); height: 300px; text-shadow: 2px 2px 2px #000000;
-	-webkit-box-shadow: 0px 6px 12px 0px rgba(0,0,0,0.75);
-	-moz-box-shadow: 0px 6px 12px 0px rgba(0,0,0,0.75);
-	box-shadow: 0px 6px 12px 0px rgba(0,0,0,0.75);
-	"/>
+{% if this.carousel %}
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+    <li data-target="#myCarousel" data-slide-to="4"></li>
+    <li data-target="#myCarousel" data-slide-to="5"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active" style="height:300px">
+      <img src="/static/carousel_pics/2.jpg">
+    </div>
+
+    <div class="item" style="height:300px">
+      <img src="/static/carousel_pics/3.jpg">
+    </div>
+
+    <div class="item" style="height:300px">
+      <img src="/static/carousel_pics/4.jpg">
+    </div>
+
+    <div class="item" style="height:300px">
+      <img src="/static/carousel_pics/5.jpg">
+    </div>
+
+    <div class="item" style="height:300px">
+      <img src="/static/carousel_pics/6.jpg">
+    </div>
+
+    <div class="item" style="height:300px">
+      <img src="/static/carousel_pics/7.jpg">
+    </div>
+
+    <div id="banner" class="carousel-caption container" style="text-shadow: 2px 2px 2px #000000;">
+    	<div style="color: white">{{ this.banner }}</div>
+    </div>
+
+  </div>
+
+  <!-- Left and right controls -->
+  <!--a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a-->
+</div>
+{% else %}
+<div id="banner" class="container" style="height: 300px; width: 100%;
+        background-image: url(/static/carousel_pics/1.jpg);
+        text-shadow: 2px 2px 2px #000000;
+	">
 	<div class="container" style="color: white">{{ this.banner }}</div>
 </div>
+{% endif %}
+<!--script>
+function getImageUrl() {
+    var n = Math.floor(Math.random() * 7) + 1;
+    return 'url("/static/carousel_pics/' + n.toString() + '.jpg")';
+}
+document.getElementById('banner').style.backgroundImage = getImageUrl();
+</script-->
 {% endblock %}
 {% block body %}
   {{ this.body }}
