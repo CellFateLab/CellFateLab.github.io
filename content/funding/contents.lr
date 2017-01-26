@@ -4,11 +4,12 @@ title: Funding
 ---
 body:
 
-<img src="/static/f1.png" class="img-thumbnail" width="300" height="300"/>
-<img src="/static/f2.png" class="img-thumbnail" width="300" height="300"/>
-<img src="/static/f3.png" class="img-thumbnail" width="300" height="300"/>
-<img src="/static/f4.png" class="img-thumbnail" width="300" height="300"/>
-<img src="/static/f5.png" class="img-thumbnail" width="300" height="300"/>
-<img src="/static/f6.png" class="img-thumbnail" width="300" height="300"/>
+<img src="/static/f1.png" class="img-thumbnail white-border" width="300" height="300"/>
+<img src="/static/f2.png" class="img-thumbnail white-border" width="200" height="200"/>
+<img src="/static/f3.png" class="img-thumbnail white-border" width="300" height="300"/>
+<img src="/static/f4.png" class="img-thumbnail white-border" width="300" height="300"/>
+<img src="/static/f5.png" class="img-thumbnail white-border" width="200" height="200"/>
+<img src="/static/f6.png" class="img-thumbnail white-border" width="300" height="300"/>
+<img src="/static/f7.png" class="img-thumbnail white-border" width="300" height="300"/>
 ---
 carousel: yes
