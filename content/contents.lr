@@ -24,16 +24,12 @@ body:
 <br/>
 <div class="row">
 <div class="col-md-9">
-<h3>Brief history of Cecilia and the start of The Cell Fate Lab</h3>
-Cecilia Sahlgren obtained her PhD at Åbo Akademi University focusing on the role of
-intermediate filaments as signaling orchestrators in cell fate decisions. She did her
-postdoctoral training at the Karolinska Institute, Sweden, where she worked with cell
-signaling regulating cell function in stem cells and cancer cells. After returning to
-Finland she established the Cell Fate Lab at the Turku Centre for Biotechnology 2008.
-2013 she moved to Eindhoven University of Technology in the Netherlands, as an
-assistant professor in Biomedical Engineering. 2016 she was appointed professor in
-cell biology at Åbo Akademi, Turku, Finland. She remains affiliated Eindhoven
-University of Technology.
+<h3>Head of Lab</h3>
+
+<p>Cecilia Sahlgren leads the cell fate lab that operates in the Turku Finland and in Eindhoven the Netherlands.</p>
+
+<p>Cecilia is professor in cell biology at Åbo Akademi University Finland  and part time associate professor in the Biomedical Engineering department  at Eindhoven University of Technology, the Netherlands.</p>
+
 </div>
 <div class="col-md-3">
 <img src="/static/cecilia.png" class="img-thumbnail" width="300" height="300"/>
