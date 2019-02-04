@@ -15,5 +15,10 @@ body:
 <img src="/static/f9.png" class="img-thumbnail white-border" width="300" height="300"/>
 <img src="/static/f10.png" class="img-thumbnail white-border" width="300" height="300"/>
 <img src="/static/f11.png" class="img-thumbnail white-border" width="300" height="300"/>
+<img src="/static/f12.png" class="img-thumbnail white-border" width="300" height="300"/>
+
+ÅAU Centers of excellence:
+* Cellular mechanostasis
+* Bioelectronic Activation of CEll functions (BACE)
 ---
 carousel: yes
