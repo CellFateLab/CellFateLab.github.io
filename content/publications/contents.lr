@@ -8,122 +8,130 @@ body:
 
 ### Peer-reviewed scientific articles 
 
-\* Equal contribution/corresponding author
+\# Equal contribution / \* shared corresponding author
 
-1. Wilhelmsson U, Lebkuechner I, Leke R, Marasek P, Yang X, Antfolk D, Chen M, Mohseni P, Lasič E, Bobnar ST, Stenovec M, Zorec R, Nagy A, Sahlgren C, Pekna M, Pekny M. Nestin Regulates Neurogenesis in Mice Through Notch Signaling From Astrocytes to Neural Stem Cells. Cereb Cortex. 2019 Sep 13;29(10):4050-4066. doi: 10.1093/cercor/bhy284.
+1. Driessen R#, Zhao F#, Hofmann S, Bouten C, Sahlgren C, Stassen O. Computational characterization of the dish-in-a-dish, a high yield culture platform for endothelial shear stress studies on the orbital shaker. Micromachines. 2020. https://doi.org/10.3390/mi11060552
 
-1. van Engeland NCA\*, Suarez Rodriguez F\*, Rivero-Müller A, Ristori T, Duran CL, Stassen OMJA, Antfolk D, Driessen RCH, Ruohonen S, Ruohonen ST, Nuutinen S, Savontaus E, Loerakker S, Bayless KJ, Sjöqvist M, Bouten CVC, Eriksson JE, Sahlgren CM. Vimentin regulates Notch signaling strength and arterial remodeling in response to hemodynamic stress. Sci Rep. 2019 Aug 27;9(1):12415. doi: 10.1038/s41598-019-48218-w.
+1. Özliseli E, Ṣen Karaman D, Soumyananda C, Slita A, Parikainen M, Sahlgren CM, Rosenholm JM. Rational evaluation of human serum albumin coated mesoporous silica nanoparticles for xenogenic-free stem cell therapies. Colloids Surf A Physicochem Eng Asp. 2020. https://doi.org/10.1016/j.colsurfa.2020.124945.
 
-1. Putti M, de Jong SMJ, Stassen OMJA, Sahlgren CM, Dankers PYW. A Supramolecular Platform for the Introduction of Fc-Fusion Bioactive Proteins on Biomaterial Surfaces. ACS Appl Polym Mater. 2019 Aug 9;1(8):2044-2054. doi:10.1021/acsapm.9b00334.
+1. Tanaka N, Kanatani S, Kaczynska D, Fukumoto K, Louhivuori L, Mizutani T, Kopper O, Kronqvist P, Robertson S, Lindh C, Kis L, Pronk R, Niwa N, Matsumoto K, Oya M, Miyakawa A, Falk A, Hartman J, Sahlgren C, Clevers H, Uhlén P. DIIFCO: A Single-Cell 3D Imaging Method to Analyse RNA and Protein Expressions in Intact Tumour Biopsies. Nat Biomed Eng. 2020. Accepted for publication.
 
-1. Antfolk D, Antila C, Kemppainen K, Landor SK, Sahlgren C. Decoding the PTM-switchboard of Notch. Biochim Biophys Acta Mol Cell Res. 2019 Jul 11:118507. doi: 10.1016/j.bbamcr.2019.07.002.
+1. Ristori T, Stassen OMJA, Sahlgren CM, Loerakker S. Lateral Induction Limits the Impact of Cell Connectivity on Notch Signaling in Arterial Walls. Int J Numer Method Biomed Eng. 2020. https://doi.org/10.1002/cnm.3323.
 
-1. Putti M, Stassen OMJA, Schotman MJG, Sahlgren CM, Dankers PYW. Influence of the Assembly State on the Functionality of a Supramolecular Jagged1-Mimicking Peptide Additive. ACS Omega. 2019 May 31;4(5):8178-8187. doi: 10.1021/acsomega.9b00869.
+1. Niemelä E, Desai D, Niemi R, Doroszko M, Özliseli E, Kemppainen K, Rahman NA, Sahlgren C, Törnquist K, Eriksson JE, Rosenholm JM. Nanoparticles Carrying Fingolimod and Methotrexate Enables Targeted Induction of Apoptosis and Immobilization of Invasive Thyroid Cancer. Eur J Pharm Biopharm. 2020. https://doi.org/10.1016/j.ejpb.2019.12.015.
 
-1. Driessen RCH, Stassen OMJA, Sjöqvist M, Suarez Rodriguez F, Grolleman J, Bouten CVC, Sahlgren CM. Shear stress induces expression, intracellular reorganization and enhanced Notch activation potential of Jagged1. Integr Biol (Camb). 2018 Nov 12;10(11):719-726. doi: 10.1039/c8ib00036k.
+1. Wilhelmsson U, Lebkuechner I, Leke R, Marasek P, Yang X, Antfolk D, Chen M, Mohseni P, Lasič E, Bobnar ST, Stenovec M, Zorec R, Nagy A, Sahlgren C, Pekna M, Pekny M. Nestin Regulates Neurogenesis in Mice Through Notch Signaling From Astrocytes to Neural Stem Cells. Cereb Cortex. 2019. https://doi.org/10.1093/cercor/bhy284.
 
-1. Mutvei AP, Landor SK, Fox R, Braune EB, Tsoi YL, Phoon YP, Sahlgren C, Hartman J, Bergh J, Jin S, Lendahl U. Notch signaling promotes a HIF2α-driven hypoxic response in multiple tumor cell types. Oncogene. 2018 Nov;37(46):6083-6095. doi: 10.1038/s41388-018-0400-3.
+1. van Engeland NCA#, Suarez Rodriguez F#, Rivero-Müller A, Ristori T, Duran CL, Stassen OMJA, Antfolk D, Driessen RCH, Ruohonen S, Ruohonen ST, Nuutinen S, Savontaus E, Loerakker S, Bayless KJ, Sjöqvist M, Bouten CVC, Eriksson JE, Sahlgren CM. Vimentin regulates Notch signaling strength and arterial remodeling in response to hemodynamic stress. Sci Rep. 2019. https://doi.org/10.1038/s41598-019-48218-w.
 
-1. Sleeboom JJF, Toonder JMJD, Sahlgren CM. MDA-MB-231 Breast Cancer Cells and Their CSC Population Migrate Towards Low Oxygen in a Microfluidic Gradient Device. Int J Mol Sci. 2018 Oct 6;19(10). doi: 10.3390/ijms19103047. 
+1. Putti M, de Jong SMJ, Stassen OMJA, Sahlgren CM, Dankers PYW. A Supramolecular Platform for the Introduction of Fc-Fusion Bioactive Proteins on Biomaterial Surfaces. ACS Appl Polym Mater. 2019. doi:10.1021/acsapm.9b00334.
 
-1. Quirós-Solano WF, Gaio N, Stassen OMJA, Arik YB, Silvestri C, Van Engeland NCA, Van der Meer A, Passier R, Sahlgren CM, Bouten CVC, van den Berg A, Dekker R, Sarro PM. Microfabricated tuneable and transferable porous PDMS membranes for Organs-on-Chips. Sci Rep. 2018 Sep 10;8(1):13524. doi: 10.1038/s41598-018-31912-6.
+1. Antfolk D, Antila C, Kemppainen K, Landor SK, Sahlgren C. Decoding the PTM-switchboard of Notch. Biochim Biophys Acta Mol Cell Res. 2019. https://doi.org/10.1016/j.bbamcr.2019.07.002.
 
-1. Paramonov VM, Desai D, Kettiger H, Mamaeva V, Rosenholm JM, Sahlgren C, Rivero-Müller A. Targeting Somatostatin Receptors By Functionalized Mesoporous Silica Nanoparticles - Are We Striking Home? Nanotheranostics. 2018 Jul 12;2(4):320-346. doi: 10.7150/ntno.23826.
+1. Putti M, Stassen OMJA, Schotman MJG, Sahlgren CM, Dankers PYW. Influence of the Assembly State on the Functionality of a Supramolecular Jagged1-Mimicking Peptide Additive. ACS Omega. 2019. https://doi.org/10.1021/acsomega.9b00869.
 
-1. van Engeland NCA, Pollet AMAO, den Toonder JMJ, Bouten CVC, Stassen OMJA, Sahlgren CM. A biomimetic microfluidic model to study signalling between endothelial and vascular smooth muscle cells under hemodynamic conditions. Lab Chip. 2018 May 29;18(11):1607-1620. doi: 10.1039/c8lc00286j.
+1. Driessen RCH, Stassen OMJA, Sjöqvist M, Suarez Rodriguez F, Grolleman J, Bouten CVC, Sahlgren CM. Shear stress induces expression, intracellular reorganization and enhanced Notch activation potential of Jagged1. Integr Biol (Camb). 2018. https://doi.org/10.1039/c8ib00036k.
 
-1. Tiemeijer LA, Frimat JP, Stassen OMJA, Bouten CVC, Sahlgren CM. Spatial patterning of the Notch ligand Dll4 controls endothelial sprouting in vitro. Sci Rep. 2018 Apr 23;8(1):6392. doi: 10.1038/s41598-018-24646-y.
+1. Mutvei AP, Landor SK, Fox R, Braune EB, Tsoi YL, Phoon YP, Sahlgren C, Hartman J, Bergh J, Jin S, Lendahl U. Notch signaling promotes a HIF2α-driven hypoxic response in multiple tumor cell types. Oncogene. 2018. https://doi.org/10.1038/s41388-018-0400-3.
 
-1. Loerakker S\*, Stassen OMJA, Ter Huurne FM, Boareto M, Bouten CVC, Sahlgren CM\*. Mechanosensitivity of Jagged-Notch signaling can induce a switch-type behavior in vascular homeostasis. Proc Natl Acad Sci U S A. 2018 Apr 17;115(16):E3682-E3691. doi: 10.1073/pnas.1715277115.
+1. Sleeboom JJF, Toonder JMJD, Sahlgren CM. MDA-MB-231 Breast Cancer Cells and Their CSC Population Migrate Towards Low Oxygen in a Microfluidic Gradient Device. Int J Mol Sci. 2018. https://doi.org/10.3390/ijms19103047.
 
-1. Tanaka N, Kaczynska D, Kanatani S, Sahlgren C, Mitura P, Stepulak A, Miyakawa A, Wiklund P, Uhlén P. Mapping of the three-dimensional lymphatic microvasculature in bladder tumours using light-sheet microscopy. Br J Cancer. 2018 Apr;118(7):995-999. doi: 10.1038/s41416-018-0016-y.
+1. Quirós-Solano WF, Gaio N, Stassen OMJA, Arik YB, Silvestri C, Van Engeland NCA, Van der Meer A, Passier R, Sahlgren CM, Bouten CVC, van den Berg A, Dekker R, Sarro PM. Microfabricated tuneable and transferable porous PDMS membranes for Organs-on-Chips. Sci Rep. 2018. https://doi.org/10.1038/s41598-018-31912-6.
 
-1. Sleeboom JJF, Eslami Amirabadi H, Nair P, Sahlgren CM, den Toonder JMJ. Metastasis in context: modeling the tumor microenvironment with cancer-on-a-chip approaches. Dis Model Mech. 2018 Mar 16;11(3). doi: 10.1242/dmm.033100.
+1. Paramonov VM, Desai D, Kettiger H, Mamaeva V, Rosenholm JM, Sahlgren C, Rivero-Müller A. Targeting Somatostatin Receptors By Functionalized Mesoporous Silica Nanoparticles - Are We Striking Home? Nanotheranostics. 2018. https://doi.org/10.7150/ntno.23826.
 
-1. Antila CJM, Rraklli V, Blomster HA, Dahlström KM, Salminen TA, Holmberg J, Sistonen L, Sahlgren C. Sumoylation of Notch1 represses its target gene expression during cell stress. Cell Death Differ. 2018 Mar;25(3):600-615. doi: 10.1038/s41418-017-0002-6.
+1. van Engeland NCA, Pollet AMAO, den Toonder JMJ, Bouten CVC, Stassen OMJA, Sahlgren CM. A biomimetic microfluidic model to study signalling between endothelial and vascular smooth muscle cells under hemodynamic conditions. Lab Chip. 2018. https://doi.org/10.1039/c8lc00286j.
 
-1. Sahlgren C, Meinander A, Zhang H, Cheng F, Preis M, Xu C, Salminen TA, Toivola D, Abankwa D, Rosling A, Karaman DŞ, Salo-Ahen OMH, Österbacka R, Eriksson JE, Willför S, Petre I, Peltonen J, Leino R, Johnson M, Rosenholm J, Sandler N. Tailored Approaches in Drug Development and Diagnostics: From Molecular Design to Biological Model Systems. Adv Healthc Mater. 2017 Nov;6(21). doi: 10.1002/adhm.201700258.
+1. Tiemeijer LA, Frimat JP, Stassen OMJA, Bouten CVC, Sahlgren CM. Spatial patterning of the Notch ligand Dll4 controls endothelial sprouting in vitro. Sci Rep. 2018. https://doi.org/10.1038/s41598-018-24646-y.
 
-1. Tanaka N, Kanatani S, Tomer R, Sahlgren C, Kronqvist P, Kaczynska D, Louhivuori L, Kis L, Lindh C, Mitura P, Stepulak A, Corvigno S, Hartman J, Micke P, Mezheyeuski A, Strell C, Carlson JW, Fernández Moro C, Dahlstrand H, Östman A, Matsumoto K, Wiklund P, Oya M, Miyakawa A, Deisseroth K, Uhlén P. Whole-tissue biopsy phenotyping of three-dimensional tumours reveals patterns of cancer heterogeneity. Nat Biomed Eng. 2017 Oct;1(10):796-806. doi: 10.1038/s41551-017-0139-0.
+1. Loerakker S\*, Stassen OMJA, Ter Huurne FM, Boareto M, Bouten CVC, Sahlgren CM\*. Mechanosensitivity of Jagged-Notch signaling can induce a switch-type behavior in vascular homeostasis. Proc Natl Acad Sci U S A. 2018. https://doi.org/10.1073/pnas.1715277115.
 
-1. Mauretti A, Rossi F, Bax NAM, Miano C, Miraldi F, Goumans MJ, Messina E, Giacomello A, Bouten CVC, Sahlgren C. Spheroid three-dimensional culture enhances Notch signaling in cardiac progenitor cells. MRS Commun. 2017 Sep;7(3):496-501. doi:10.1557/mrc.2017.82
+1. Tanaka N, Kaczynska D, Kanatani S, Sahlgren C, Mitura P, Stepulak A, Miyakawa A, Wiklund P, Uhlén P. Mapping of the three-dimensional lymphatic microvasculature in bladder tumours using light-sheet microscopy. Br J Cancer. 2018. https://doi.org/10.1038/s41416-018-0016-y.
 
-1. Paatero I, Casals E, Niemi R, Özliseli E, Rosenholm JM, Sahlgren C. Analyses in zebrafish embryos reveal that nanotoxicity profiles are dependent on surface-functionalization controlled penetrance of biological membranes. Sci Rep. 2017 Aug 21;7(1):8423. doi: 10.1038/s41598-017-09312-z.
+1. Sleeboom JJF, Eslami Amirabadi H, Nair P, Sahlgren CM, den Toonder JMJ. Metastasis in context: modeling the tumor microenvironment with cancer-on-a-chip approaches. Dis Model Mech. 2018. https://doi.org/10.1242/dmm.033100.
 
-1. Antfolk D, Sjöqvist M, Cheng F, Isoniemi K, Duran CL, Rivero-Muller A, Antila C, Niemi R, Landor S, Bouten CVC, Bayless KJ, Eriksson JE, Sahlgren CM. Selective regulation of Notch ligands during angiogenesis is mediated by vimentin. Proc Natl Acad Sci U S A. 2017 Jun 6;114(23):E4574-E4581. doi: 10.1073/pnas.1703057114.
+1. Antila CJM, Rraklli V, Blomster HA, Dahlström KM, Salminen TA, Holmberg J, Sistonen L, Sahlgren C. Sumoylation of Notch1 represses its target gene expression during cell stress. Cell Death Differ. 2018. https://doi.org/10.1038/s41418-017-0002-6.
 
-1. Lähdeniemi IAK, Misiorek JO, Antila CJM, Landor SK, Stenvall CA, Fortelius LE, Bergström LK, Sahlgren C\*, Toivola DM\*. Keratins regulate colonic epithelial cell differentiation through the Notch1 signalling pathway. Cell Death Differ. 2017 Jun;24(6):984-996. doi: 10.1038/cdd.2017.28.
+1. Sahlgren C, Meinander A, Zhang H, Cheng F, Preis M, Xu C, Salminen TA, Toivola D, Abankwa D, Rosling A, Karaman DŞ, Salo-Ahen OMH, Österbacka R, Eriksson JE, Willför S, Petre I, Peltonen J, Leino R, Johnson M, Rosenholm J, Sandler N. Tailored Approaches in Drug Development and Diagnostics: From Molecular Design to Biological Model Systems. Adv Healthc Mater. 2017. https://doi.org/10.1002/adhm.201700258.
 
-1. Mauretti A, Spaans S, Bax NAM, Sahlgren C, Bouten CVC. Cardiac Progenitor Cells and the Interplay with Their Microenvironment. Stem Cells Int. 2017;2017:7471582. doi: 10.1155/2017/7471582.
+1. Tanaka N, Kanatani S, Tomer R, Sahlgren C, Kronqvist P, Kaczynska D, Louhivuori L, Kis L, Lindh C, Mitura P, Stepulak A, Corvigno S, Hartman J, Micke P, Mezheyeuski A, Strell C, Carlson JW, Fernández Moro C, Dahlstrand H, Östman A, Matsumoto K, Wiklund P, Oya M, Miyakawa A, Deisseroth K, Uhlén P. Whole-tissue biopsy phenotyping of three-dimensional tumours reveals patterns of cancer heterogeneity. Nat Biomed Eng. 2017. https://doi.org/10.1038/s41551-017-0139-0.
 
-1. Mauretti A, Bax NA, van Marion MH, Goumans MJ, Sahlgren C, Bouten CV. Cardiomyocyte progenitor cell mechanoresponse unrevealed: strain avoidance and mechanosome development. Integr Biol (Camb). 2016 Sep 12;8(9):991-1001. doi: 10.1039/c6ib00117c
+1. Mauretti A, Rossi F, Bax NAM, Miano C, Miraldi F, Goumans MJ, Messina E, Giacomello A, Bouten CVC, Sahlgren C. Spheroid three-dimensional culture enhances Notch signaling in cardiac progenitor cells. MRS Commun. 2017. doi:10.1557/mrc.2017.82
 
-1. Baghirov H, Karaman D, Viitala T, Duchanoy A, Lou YR, Mamaeva V, Pryazhnikov E, Khiroug L, de Lange Davies C, Sahlgren C\*, Rosenholm JM\*. Feasibility Study of the Permeability and Uptake of Mesoporous Silica Nanoparticles across the Blood-Brain Barrier. PLoS One. 2016 Aug 22;11(8):e0160705. doi: 10.1371/journal.pone.0160705.
+1. Paatero I, Casals E, Niemi R, Özliseli E, Rosenholm JM, Sahlgren C. Analyses in zebrafish embryos reveal that nanotoxicity profiles are dependent on surface-functionalization controlled penetrance of biological membranes. Sci Rep. 2017. https://doi.org/10.1038/s41598-017-09312-z.
 
-1. Santio NM, Landor SK, Vahtera L, Ylä-Pelto J, Paloniemi E, Imanishi SY, Corthals G, Varjosalo M, Manoharan GB, Uri A, Lendahl U, Sahlgren C\*, Koskinen PJ\*. Phosphorylation of Notch1 by Pim kinases promotes oncogenic signaling in breast and prostate cancer cells. Oncotarget. 2016 Jul 12;7(28):43220-43238. doi: 10.18632/oncotarget.9215.
+1. Antfolk D, Sjöqvist M, Cheng F, Isoniemi K, Duran CL, Rivero-Muller A, Antila C, Niemi R, Landor S, Bouten CVC, Bayless KJ, Eriksson JE, Sahlgren CM. Selective regulation of Notch ligands during angiogenesis is mediated by vimentin. Proc Natl Acad Sci U S A. 2017. https://doi.org/10.1073/pnas.1703057114.
 
-1. Braune EB, Tsoi YL, Phoon YP, Landor S, Silva Cascales H, Ramsköld D, Deng Q, Lindqvist A, Lian X, Sahlgren C, Jin SB, Lendahl U. Loss of CSL Unlocks a Hypoxic Response and Enhanced Tumor Growth Potential in Breast Cancer Cells. Stem Cell Reports. 2016 May 10;6(5):643-651. doi: 10.1016/j.stemcr.2016.03.004. 
+1. Lähdeniemi IAK, Misiorek JO, Antila CJM, Landor SK, Stenvall CA, Fortelius LE, Bergström LK, Sahlgren C\*, Toivola DM\*. Keratins regulate colonic epithelial cell differentiation through the Notch1 signalling pathway. Cell Death Differ. 2017. https://doi.org/10.1038/cdd.2017.28.
 
-1. Mamaeva V, Niemi R, Beck M, Özliseli E, Desai D, Landor S, Gronroos T, Kronqvist P, Pettersen IK, McCormack E, Rosenholm JM, Linden M, Sahlgren C. Inhibiting Notch Activity in Breast Cancer Stem Cells by Glucose Functionalized Nanoparticles Carrying γ-secretase Inhibitors. Mol Ther. 2016 May;24(5):926-36. doi: 10.1038/mt.2016.42.
+1. Mauretti A, Spaans S, Bax NAM, Sahlgren C, Bouten CVC. Cardiac Progenitor Cells and the Interplay with Their Microenvironment. Stem Cells Int. 2017. https://doi.org/10.1155/2017/7471582.
 
-1. Rosenholm JM, Gulin-Sarfraz T, Mamaeva V, Niemi R, Özliseli E, Desai D, Antfolk D, von Haartman E, Lindberg D, Prabhakar N, Näreoja T, Sahlgren C. Prolonged Dye Release from Mesoporous Silica-Based Imaging Probes Facilitates Long-Term Optical Tracking of Cell Populations In Vivo. Small. 2016 Mar 23;12(12):1578-92. doi: 10.1002/smll.201503392.
+1. Mauretti A, Bax NA, van Marion MH, Goumans MJ, Sahlgren C, Bouten CV. Cardiomyocyte progenitor cell mechanoresponse unrevealed: strain avoidance and mechanosome development. Integr Biol (Camb). 2016. https://doi.org/10.1039/c6ib00117c
 
-1. Rosenholm JM, Zhang J, Linden M, Sahlgren C. Mesoporous silica nanoparticles in tissue engineering –  perspective. Nanomedicine (Lond). 2016 Feb;11(4):391-402. doi: 10.2217/nnm.15.212.
+1. Baghirov H, Karaman D, Viitala T, Duchanoy A, Lou YR, Mamaeva V, Pryazhnikov E, Khiroug L, de Lange Davies C, Sahlgren C\*, Rosenholm JM\*. Feasibility Study of the Permeability and Uptake of Mesoporous Silica Nanoparticles across the Blood-Brain Barrier. PLoS One. 2016. https://doi.org/10.1371/journal.pone.0160705.
 
-1. Desai D, Prabhakar N, Mamaeva V, Karaman DŞ, Lähdeniemi IA, Sahlgren C\*, Rosenholm JM\*, Toivola DM\*. Targeted modulation of cell differentiation in distinct regions of the gastrointestinal tract via oral administration of differently PEG-PEI functionalized mesoporous silica nanoparticles. Int J Nanomedicine. 2016 Jan 18;11:299-313. doi: 10.2147/IJN.S94013.
+1. Santio NM, Landor SK, Vahtera L, Ylä-Pelto J, Paloniemi E, Imanishi SY, Corthals G, Varjosalo M, Manoharan GB, Uri A, Lendahl U, Sahlgren C\*, Koskinen PJ\*. Phosphorylation of Notch1 by Pim kinases promotes oncogenic signaling in breast and prostate cancer cells. Oncotarget. 2016. https://doi.org/10.18632/oncotarget.9215.
 
-1. Paramonov VM, Mamaeva V, Sahlgren C, Rivero-Müller A. Genetically-encoded tools for cAMP probing and modulation in living systems. Front Pharmacol. 2015 Sep 15;6:196. doi: 10.3389/fphar.2015.00196.
+1. Braune EB, Tsoi YL, Phoon YP, Landor S, Silva Cascales H, Ramsköld D, Deng Q, Lindqvist A, Lian X, Sahlgren C, Jin SB, Lendahl U. Loss of CSL Unlocks a Hypoxic Response and Enhanced Tumor Growth Potential in Breast Cancer Cells. Stem Cell Reports. 2016. https://doi.org/10.1016/j.stemcr.2016.03.004.
 
-1. Shokry H, Vanamo U, Wiltschka O, Niinimäki J, Lerche M, Levon K, Linden M, Sahlgren C. Mesoporous silica particle-PLA-PANI hybrid scaffolds for cell-directed intracellular drug delivery and tissue vascularization. Nanoscale. 2015 Sep 14;7(34):14434-43. doi: 10.1039/c5nr03983e.
+1. Mamaeva V, Niemi R, Beck M, Özliseli E, Desai D, Landor S, Gronroos T, Kronqvist P, Pettersen IK, McCormack E, Rosenholm JM, Linden M, Sahlgren C. Inhibiting Notch Activity in Breast Cancer Stem Cells by Glucose Functionalized Nanoparticles Carrying γ-secretase Inhibitors. Mol Ther. 2016. https://doi.org/10.1038/mt.2016.42.
 
-1. Chivukula IV, Ramsköld D, Storvall H, Anderberg C, Jin S, Mamaeva V, Sahlgren C, Pietras K, Sandberg R, Lendahl U. Decoding breast cancer tissue-stroma interactions using species-specific sequencing. Breast Cancer Res. 2015 Aug 13;17:109. doi: 10.1186/s13058-015-0616-x.
+1. Rosenholm JM, Gulin-Sarfraz T, Mamaeva V, Niemi R, Özliseli E, Desai D, Antfolk D, von Haartman E, Lindberg D, Prabhakar N, Näreoja T, Sahlgren C. Prolonged Dye Release from Mesoporous Silica-Based Imaging Probes Facilitates Long-Term Optical Tracking of Cell Populations In Vivo. Small. 2016. https://doi.org/10.1002/smll.201503392.
 
-1. Rosenholm JM, Korpi RM, Lammentausta E, Lehtonen S, Lehenkari P, Niemi R, Xiao W, Zhang J, Råtts N, Gu H, Sahlgren C\*, Sequeiros RB\*. Novel, Fast-Processed Crystalline and Amorphous Manganese Oxide Nanoparticles for Stem Cell Labeling. Inorg Chem Front. 2015;2:640-648. doi: 10.1039/C5QI00033E
+1. Rosenholm JM, Zhang J, Linden M, Sahlgren C. Mesoporous silica nanoparticles in tissue engineering –  perspective. Nanomedicine (Lond). 2016. https://doi.org/10.2217/nnm.15.212.
 
-1. Wittig R\*, Rosenholm JM, von Haartman E, Hemming J, Genze F, Bergman L, Simmet T, Lindén M, Sahlgren C\*. Active targeting of mesoporous silica drug carriers enhances γ-secretase inhibitor efficacy in an in vivo model for breast cancer. Nanomedicine (Lond). 2014 May;9(7):971-87. doi: 10.2217/nnm.13.62. 
+1. Desai D, Prabhakar N, Mamaeva V, Karaman DŞ, Lähdeniemi IA, Sahlgren C\*, Rosenholm JM\*, Toivola DM\*. Targeted modulation of cell differentiation in distinct regions of the gastrointestinal tract via oral administration of differently PEG-PEI functionalized mesoporous silica nanoparticles. Int J Nanomedicine. 2016. https://doi.org/10.2147/IJN.S94013.
 
-1. Sjöqvist M, Antfolk D, Ferraris S, Rraklli V, Haga C, Antila C, Mutvei A, Imanishi SY, Holmberg J, Jin S, Eriksson JE, Lendahl U, Sahlgren C. PKCζ regulates Notch receptor routing and activity in a Notch signaling-dependent manner. Cell Res. 2014 Apr;24(4):433-50. doi: 10.1038/cr.2014.34.
+1. Paramonov VM, Mamaeva V, Sahlgren C, Rivero-Müller A. Genetically-encoded tools for cAMP probing and modulation in living systems. Front Pharmacol. 2015. https://doi.org/10.3389/fphar.2015.00196.
 
-1. Wiltschka O, Böcking D, Brenner R, Sahlgren C, Lindén M. Preparation, characterization, and preliminary biocompatibility evaluation of particulate spin-coated mesoporous silica films. Microporous Mesoporous Mater. 2014 Apr;188:203-209. doi: 10.1016/j.micromeso.2014.01.006
+1. Shokry H, Vanamo U, Wiltschka O, Niinimäki J, Lerche M, Levon K, Linden M, Sahlgren C. Mesoporous silica particle-PLA-PANI hybrid scaffolds for cell-directed intracellular drug delivery and tissue vascularization. Nanoscale. 2015. https://doi.org/10.1039/c5nr03983e.
 
-1. Böcking D, Wiltschka O, Niinimäki J, Shokry H, Brenner R, Lindén M, Sahlgren C. Mesoporous silica nanoparticle-based substrates for cell directed delivery of Notch signalling modulators to control myoblast differentiation. Nanoscale. 2014;6(3):1490-8. doi: 10.1039/c3nr04022d.
+1. Chivukula IV, Ramsköld D, Storvall H, Anderberg C, Jin S, Mamaeva V, Sahlgren C, Pietras K, Sandberg R, Lendahl U. Decoding breast cancer tissue-stroma interactions using species-specific sequencing. Breast Cancer Res. 2015. https://doi.org/10.1186/s13058-015-0616-x.
 
-1. Gulin-Sarfraz TJ, Zhang J, Desai D, Teuho J, Sarfraz J, Jiang H, Zhang C, Sahlgren C, Lindén M, Gu H, Rosenholm JM. Combination of magnetic field and surface functionalization for reaching synergistic effects in cellular labeling by magnetic core-shell nanospheres. Biomater Sci. 2014;2:1750-1760. doi: 10.1039/C4BM00221K
+1. Rosenholm JM, Korpi RM, Lammentausta E, Lehtonen S, Lehenkari P, Niemi R, Xiao W, Zhang J, Råtts N, Gu H, Sahlgren C\*, Sequeiros RB\*. Novel, Fast-Processed Crystalline and Amorphous Manganese Oxide Nanoparticles for Stem Cell Labeling. Inorg Chem Front. 2015. https://doi.org/10.1039/C5QI00033E
 
-1. Jin S, Mutvei AP, Chivukula IV, Andersson ER, Ramsköld D, Sandberg R, Lee KL, Kronqvist P, Mamaeva V, Ostling P, Mpindi JP, Kallioniemi O, Screpanti I, Poellinger L, Sahlgren C, Lendahl U. Non-canonical Notch signaling activates IL-6/JAK/STAT signaling in breast tumor cells and is controlled by p53 and IKKα/IKKβ. Oncogene. 2013 Oct 10;32(41):4892-902. doi: 10.1038/onc.2012.517.
+1. Wittig R\*, Rosenholm JM, von Haartman E, Hemming J, Genze F, Bergman L, Simmet T, Lindén M, Sahlgren C\*. Active targeting of mesoporous silica drug carriers enhances γ-secretase inhibitor efficacy in an in vivo model for breast cancer. Nanomedicine (Lond). 2014. https://doi.org/10.2217/nnm.13.62.
 
-1. Prabhakar N, Näreoja T, von Haartman E, Karaman DŞ, Jiang H, Koho S, Dolenko TA, Hänninen PE, Vlasov DI, Ralchenko VG, Hosomi S, Vlasov II, Sahlgren C, Rosenholm JM. Core-shell designs of photoluminescent nanodiamonds with porous silica coatings for bioimaging and drug delivery II: application. Nanoscale. 2013 May 7;5(9):3713-22. doi: 10.1039/c3nr33926b.
+1. Sjöqvist M, Antfolk D, Ferraris S, Rraklli V, Haga C, Antila C, Mutvei A, Imanishi SY, Holmberg J, Jin S, Eriksson JE, Lendahl U, Sahlgren C. PKCζ regulates Notch receptor routing and activity in a Notch signaling-dependent manner. Cell Res. 2014. https://doi.org/10.1038/cr.2014.34.
 
-1. Mamaeva V, Sahlgren C\*, Lindén M\*. Mesoporous silica nanoparticles in medicine – recent advances. Adv Drug Deliv Rev. 2013 May;65(5):689-702. doi: 10.1016/j.addr.2012.07.018.
+1. Wiltschka O, Böcking D, Brenner R, Sahlgren C, Lindén M. Preparation, characterization, and preliminary biocompatibility evaluation of particulate spin-coated mesoporous silica films. Microporous Mesoporous Mater. 2014. https://doi.org/10.1016/j.micromeso.2014.01.006
 
-1. Wilhelmsson U, Faiz M, de Pablo Y, Sjöqvist M, Andersson D, Widestrand A, Potokar M, Stenovec M, Smith PL, Shinjyo N, Pekny T, Zorec R, Ståhlberg A, Pekna M, Sahlgren C, Pekny M. Astrocytes negatively regulate neurogenesis through the Jagged1-mediated Notch pathway. Stem Cells. 2012 Oct;30(10):2320-9. doi: 10.1002/stem.1196.
+1. Böcking D, Wiltschka O, Niinimäki J, Shokry H, Brenner R, Lindén M, Sahlgren C. Mesoporous silica nanoparticle-based substrates for cell directed delivery of Notch signalling modulators to control myoblast differentiation. Nanoscale. 2014. https://doi.org/10.1039/c3nr04022d.
 
-1. Karaman DS, Desai D, Senthilkumar R, Johansson EM, Råtts N, Odén M, Eriksson JE, Sahlgren C, Toivola DM, Rosenholm JM. Shape engineering vs organic modification of inorganic nanoparticles as a tool for enhancing cellular internalization. Nanoscale Res Lett. 2012 Jul 1;7(1):358. doi: 10.1186/1556-276X-7-358. 
+1. Gulin-Sarfraz TJ, Zhang J, Desai D, Teuho J, Sarfraz J, Jiang H, Zhang C, Sahlgren C, Lindén M, Gu H, Rosenholm JM. Combination of magnetic field and surface functionalization for reaching synergistic effects in cellular labeling by magnetic core-shell nanospheres. Biomater Sci. 2014. https://doi.org/10.1039/C4BM00221K
 
-1. Rosenholm JM, Mamaeva V, Sahlgren C\*, Lindén M\*. Nanoparticles in targeted cancer therapy: mesoporous silica nanoparticles entering preclinical development stage. Nanomedicine (Lond). 2012 Jan;7(1):111-20. doi: 10.2217/nnm.11.166.
+1. Jin S, Mutvei AP, Chivukula IV, Andersson ER, Ramsköld D, Sandberg R, Lee KL, Kronqvist P, Mamaeva V, Ostling P, Mpindi JP, Kallioniemi O, Screpanti I, Poellinger L, Sahlgren C, Lendahl U. Non-canonical Notch signaling activates IL-6/JAK/STAT signaling in breast tumor cells and is controlled by p53 and IKKα/IKKβ. Oncogene. 2013. https://doi.org/10.1038/onc.2012.517.
 
-1. Landor SK, Mutvei AP, Mamaeva V, Jin S, Busk M, Borra R, Grönroos TJ, Kronqvist P, Lendahl U, Sahlgren CM. Hypo- and hyperactivated Notch signaling induce a glycolytic switch through distinct mechanisms. Proc Natl Acad Sci U S A. 2011 Nov 15;108(46):18814-9. doi: 10.1073/pnas.1104943108. 
+1. Prabhakar N, Näreoja T, von Haartman E, Karaman DŞ, Jiang H, Koho S, Dolenko TA, Hänninen PE, Vlasov DI, Ralchenko VG, Hosomi S, Vlasov II, Sahlgren C, Rosenholm JM. Core-shell designs of photoluminescent nanodiamonds with porous silica coatings for bioimaging and drug delivery II: application. Nanoscale. 2013. https://doi.org/10.1039/c3nr33926b.
 
-1. **Goodman C. A Warburg shakeup. Nat Chem Biol. 2012;8:20. doi: https://doi.org/10.1038/nchembio.751**
+1. Mamaeva V, Sahlgren C\*, Lindén M\*. Mesoporous silica nanoparticles in medicine – recent advances. Adv Drug Deliv Rev. 2013. https://doi.org/10.1016/j.addr.2012.07.018.
 
-1. Mamaeva V, Rosenholm JM, Bate-Eya LT, Bergman L, Peuhu E, Duchanoy A, Fortelius LE, Landor S, Toivola DM, Lindén M, Sahlgren C. Mesoporous silica nanoparticles as drug delivery systems for targeted inhibition of Notch signaling in cancer. Mol Ther. 2011 Aug;19(8):1538-46. doi: 10.1038/mt.2011.105. Epub 2011 
+1. Wilhelmsson U, Faiz M, de Pablo Y, Sjöqvist M, Andersson D, Widestrand A, Potokar M, Stenovec M, Smith PL, Shinjyo N, Pekny T, Zorec R, Ståhlberg A, Pekna M, Sahlgren C, Pekny M. Astrocytes negatively regulate neurogenesis through the Jagged1-mediated Notch pathway. Stem Cells. 2012. https://doi.org/10.1002/stem.1196.
 
-1. Rosenholm JM, Sahlgren C\*, Lindén M\*. Multifunctional mesoporous silica nanoparticles for combined therapeutic, diagnostic and targeted action in cancer treatment. Curr Drug Targets. 2011 Jul 1;12(8):1166-86. doi: 10.2174/138945011795906624
+1. Karaman DS, Desai D, Senthilkumar R, Johansson EM, Råtts N, Odén M, Eriksson JE, Sahlgren C, Toivola DM, Rosenholm JM. Shape engineering vs organic modification of inorganic nanoparticles as a tool for enhancing cellular internalization. Nanoscale Res Lett. 2012. https://doi.org/10.1186/1556-276X-7-358.
 
-1. Pallari HM, Lindqvist J, Torvaldson E, Ferraris SE, He T, Sahlgren C, Eriksson JE. Nestin as a regulator of Cdk5 in differentiating myoblasts. Mol Biol Cell. 2011 May;22(9):1539-49. doi: 10.1091/mbc.E10-07-0568. 
+1. Rosenholm JM, Mamaeva V, Sahlgren C\*, Lindén M\*. Nanoparticles in targeted cancer therapy: mesoporous silica nanoparticles entering preclinical development stage. Nanomedicine (Lond). 2012. https://doi.org/10.2217/nnm.11.166.
 
-1. Das D, Lanner F, Main H, Andersson ER, Bergmann O, Sahlgren C, Heldring N, Hermanson O, Hansson EM, Lendahl U. Notch induces cyclin-D1-dependent proliferation during a specific temporal window of neural differentiation in ES cells. Dev Biol. 2010 Dec 15;348(2):153-66. doi: 10.1016/j.ydbio.2010.09.018.
+1. Landor SK, Mutvei AP, Mamaeva V, Jin S, Busk M, Borra R, Grönroos TJ, Kronqvist P, Lendahl U, Sahlgren CM. Hypo- and hyperactivated Notch signaling induce a glycolytic switch through distinct mechanisms. Proc Natl Acad Sci U S A. 2011. https://doi.org/10.1073/pnas.1104943108.
 
-1. Rosenholm JM, Sahlgren C\*, Lindén M\*. Towards multifunctional, targeted drug delivery systems using mesoporous silica nanoparticles--opportunities &amp; challenges. Nanoscale. 2010 Oct;2(10):1870-83. doi: 10.1039/c0nr00156b.
+1. Mamaeva V, Rosenholm JM, Bate-Eya LT, Bergman L, Peuhu E, Duchanoy A, Fortelius LE, Landor S, Toivola DM, Lindén M, Sahlgren C. Mesoporous silica nanoparticles as drug delivery systems for targeted inhibition of Notch signaling in cancer. Mol Ther. 2011. https://doi.org/10.1038/mt.2011.105. Epub 2011
 
-1. Rosenholm JM, Peuhu E, Bate-Eya LT, Eriksson JE, Sahlgren C\*, Lindén M\*. Cancer-cell-specific induction of apoptosis using mesoporous silica nanoparticles as drug-delivery vectors. Small. 2010 Jun 6;6(11):1234-41. doi: 10.1002/smll.200902355.
-‘
-1. Main H, Lee KL, Yang H, Haapa-Paananen S, Edgren H, Jin S, Sahlgren C, Kallioniemi O, Poellinger L, Lim B, Lendahl U. Interactions between Notch- and hypoxia-induced transcriptomes in embryonic stem cells. Exp Cell Res. 2010 May 15;316(9):1610-24. doi: 10.1016/j.yexcr.2009.12.012.
+1. Rosenholm JM, Sahlgren C\*, Lindén M\*. Multifunctional mesoporous silica nanoparticles for combined therapeutic, diagnostic and targeted action in cancer treatment. Curr Drug Targets. 2011. https://doi.org/10.2174/138945011795906624
 
-1. de Thonel A, Ferraris SE, Pallari HM, Imanishi SY, Kochin V, Hosokawa T, Hisanaga S, Sahlgren C, Eriksson JE. Protein kinase Czeta regulates Cdk5/p25 signaling during myogenesis. Mol Biol Cell. 2010 Apr 15;21(8):1423-34. doi: 10.1091/mbc.E09-10-0847. 
+1. Pallari HM, Lindqvist J, Torvaldson E, Ferraris SE, He T, Sahlgren C, Eriksson JE. Nestin as a regulator of Cdk5 in differentiating myoblasts. Mol Biol Cell. 2011. https://doi.org/10.1091/mbc.E10-07-0568.
 
-1. Rosenholm JM, Sahlgren C\*, Linden M\*. Cancer-cell targeting and cell-specific delivery by mesoporous silica nanoparticles. Journal of Material Chemistry.2010;14:2707-2713. doi: 10.1039/B920076B
+1. Das D, Lanner F, Main H, Andersson ER, Bergmann O, Sahlgren C, Heldring N, Hermanson O, Hansson EM, Lendahl U. Notch induces cyclin-D1-dependent proliferation during a specific temporal window of neural differentiation in ES cells. Dev Biol. 2010. https://doi.org/10.1016/j.ydbio.2010.09.018.
 
-1. Rosenholm JM, Peuhu E, Eriksson JE, Sahlgren C\*, Lindén M\*. Targeted intracellular delivery of hydrophobic agents using mesoporous hybrid silica nanoparticles as carrier systems. Nano Lett. 2009 Sep;9(9):3308-11. doi: 10.1021/nl901589y.
+1. Rosenholm JM, Sahlgren C\*, Lindén M\*. Towards multifunctional, targeted drug delivery systems using mesoporous silica nanoparticles--opportunities & challenges. Nanoscale. 2010. https://doi.org/10.1039/c0nr00156b.
 
-1. Rosenholm JM, Meinander A, Peuhu E, Niemi R, Eriksson JE, Sahlgren C\*, Lindén  M\*. Targeting of porous hybrid silica nanoparticles to cancer cells. ACS Nano. 2009 Jan 27;3(1):197-206. doi: 10.1021/nn800781r.
+1. Rosenholm JM, Peuhu E, Bate-Eya LT, Eriksson JE, Sahlgren C\*, Lindén M\*. Cancer-cell-specific induction of apoptosis using mesoporous silica nanoparticles as drug-delivery vectors. Small. 2010. https://doi.org/10.1002/smll.200902355.
+
+1. Main H, Lee KL, Yang H, Haapa-Paananen S, Edgren H, Jin S, Sahlgren C, Kallioniemi O, Poellinger L, Lim B, Lendahl U. Interactions between Notch- and hypoxia-induced transcriptomes in embryonic stem cells. Exp Cell Res. 2010. https://doi.org/10.1016/j.yexcr.2009.12.012.
+
+1. de Thonel A, Ferraris SE, Pallari HM, Imanishi SY, Kochin V, Hosokawa T, Hisanaga S, Sahlgren C, Eriksson JE. Protein kinase Czeta regulates Cdk5/p25 signaling during myogenesis. Mol Biol Cell. 2010. https://doi.org/10.1091/mbc.E09-10-0847.
+
+1. Rosenholm JM, Sahlgren C\*, Linden M\*. Cancer-cell targeting and cell-specific delivery by mesoporous silica nanoparticles. Journal of Material Chemistry.2010. https://doi.org/10.1039/B920076B
+
+1. Rosenholm JM, Peuhu E, Eriksson JE, Sahlgren C\*, Lindén M\*. Targeted intracellular delivery of hydrophobic agents using mesoporous hybrid silica nanoparticles as carrier systems. Nano Lett. 2009. https://doi.org/10.1021/nl901589y.
+
+1. Rosenholm JM, Meinander A, Peuhu E, Niemi R, Eriksson JE, Sahlgren C\*, Lindén  M\*. Targeting of porous hybrid silica nanoparticles to cancer cells. ACS Nano. 2009. https://doi.org/10.1021/nn800781r.
