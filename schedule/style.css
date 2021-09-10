@@ -87,6 +87,7 @@
   .event .event-left .event-date .date,
   .event .event-left .event-date .month {
     display: inline-block;
+    padding: 0;
     font-size: 24px;
   }
 
