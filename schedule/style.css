@@ -19,7 +19,7 @@
 
 .event .event-left {
   background: #222;
-  min-width: 82px;
+  width: 82px;
   display: flex;
   align-items: center;
   justify-content: center;
