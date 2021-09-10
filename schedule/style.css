@@ -38,6 +38,7 @@
 
 .event .event-left .month {
   font-size: 16px;
+  padding: .8em;
   font-weight: normal;
 }
 
@@ -78,6 +79,7 @@
   }
 
   .event .event-left {
+    width: 100%;
     padding: 0;
     border-radius: 8px 8px 0 0;
   }
